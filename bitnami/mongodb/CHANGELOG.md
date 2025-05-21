@@ -1,5 +1,9 @@
 # Changelog
 
+## 16.5.10 (2025-05-20)
+
+* [bitnami/mongodb] Add ServiceAccount to backup cronjob
+
 ## 16.5.9 (2025-05-20)
 
 * [bitnami/mongodb] :zap: :arrow_up: Update dependency references ([#33788](https://github.com/bitnami/charts/pull/33788))
